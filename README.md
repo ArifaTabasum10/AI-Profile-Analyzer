@@ -8,15 +8,23 @@ This app is built with a 100% free, offline AI/NLP engine.
 
 LinkedIn Analyzer:
 Profile Scoring: Get a score out of 100 for your LinkedIn "About" section and "Skills" list.
+
 Action Verb Analysis: Scans your summary for a sufficient number of high-impact action verbs (e.g., "developed," "managed," "achieved").
+
 Skills Count: Rewards you for listing a comprehensive number of skills.
+
 Data Visualization: See your score at a glance with a dynamic Plotly pie chart.
+
 
 Resume Analyzer:
 General Resume Score: Get a score based on length, action verb usage, and the presence of key sections (like "Education" and "Experience").
+
 Job Match Score: Paste in a job description, and the app will use NLP to extract key skills and tell you your "match percentage."
+
 Missing Keywords: Instantly see a list of important keywords from the job description that are missing from your resume.
+
 Named Entity Recognition (NER): The app automatically scans your resume and extracts key entities like:Companies / Organizations & skills
+
 
 🛠️ Tech Stack
 Language: Python
