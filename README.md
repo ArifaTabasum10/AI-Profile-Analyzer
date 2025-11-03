@@ -14,10 +14,7 @@ This project uses NLP to score a LinkedIn profile and match a resume against a j
 
 Here is a preview of the analyzer in action.
 
-**(Your Screenshot Here)**
-*Paste a screenshot of your app's main page. This is the single most important part of a good README.*
-
----
+![AI Profile & Resume Analyzer Screenshot](app-screenshot.png)
 
 ## 💡 Key Features
 
