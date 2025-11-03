@@ -10,12 +10,6 @@ This project uses NLP to score a LinkedIn profile and match a resume against a j
 
 ---
 
-## 📸 Screenshots
-
-Here is a preview of the analyzer in action.
-
-<img width="1911" height="900" alt="Screenshot 2025-11-03 205522" src="https://github.com/user-attachments/assets/b278e349-3188-4995-bbdc-84ffe7353cbb" />
-
 
 ## 💡 Key Features
 
@@ -83,3 +77,9 @@ You can get this project running on your local machine in just a few steps.
     Your web browser will open automatically, and you can start analyzing!
 
 ---
+## 📸 Screenshots
+
+Here is a preview of the analyzer in action.
+
+<img width="1911" height="900" alt="Screenshot 2025-11-03 205522" src="https://github.com/user-attachments/assets/b278e349-3188-4995-bbdc-84ffe7353cbb" />
+
