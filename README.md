@@ -16,7 +16,6 @@ Here is a preview of the analyzer in action.
 
 <img width="1911" height="900" alt="Screenshot 2025-11-03 205522" src="https://github.com/user-attachments/assets/b278e349-3188-4995-bbdc-84ffe7353cbb" />
 
-![AI Profile & Resume Analyzer Screenshot](app-screenshot.png)
 
 ## 💡 Key Features
 
