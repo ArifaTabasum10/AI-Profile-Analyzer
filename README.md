@@ -1,4 +1,4 @@
-# 🚀 AI Profile & Resume Analyzer
+# 🚀 AI based Linkedin-Profile & Resume Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.33-red?style=for-the-badge&logo=streamlit)
