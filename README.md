@@ -84,10 +84,9 @@ Here is a preview of the analyzer in action.
 <img width="1911" height="900" alt="Screenshot 2025-11-03 205522" src="https://github.com/user-attachments/assets/b278e349-3188-4995-bbdc-84ffe7353cbb" />
 
 <img width="1902" height="406" alt="Screenshot 2025-11-03 211013" src="https://github.com/user-attachments/assets/c910f8bb-9538-4770-956a-4b4f103ab49c" />
+<img width="1912" height="858" alt="Screenshot 2025-11-04 193627" src="https://github.com/user-attachments/assets/f090510c-8340-4e69-b33f-0efdecc204b5" />
 
+<img width="1918" height="870" alt="Screenshot 2025-11-04 193644" src="https://github.com/user-attachments/assets/7cd8b2a0-efb3-41d4-b85f-0a940e68e847" />
 
-<img width="1906" height="887" alt="Screenshot 2025-11-03 210457" src="https://github.com/user-attachments/assets/d70ea0fe-0671-4794-a7a3-3805c8ef18cb" />
-
-<img width="1842" height="793" alt="Screenshot 2025-11-03 211224" src="https://github.com/user-attachments/assets/dbc2b33c-c7de-4dd0-a5bb-5b71bdd8b4ec" />
 
 <img width="1875" height="899" alt="Screenshot 2025-11-03 210703" src="https://github.com/user-attachments/assets/bd9af38b-9d91-42dc-8477-9b9c88d6c301" />
